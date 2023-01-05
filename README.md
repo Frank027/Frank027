@@ -6,5 +6,7 @@
 <br>
 
 <hr>  
-<p>Soy estudiande de <strong>Informática</strong> y me gusta aprender de tecnología y manrenerme al día.</p>
-<p>Seguiré trabajando en mi presentación conforma siga creciendo en el ámbito profesional.</p>
+<p align="center">Soy estudiande de <strong>Informática</strong> y me gusta aprender de tecnología.</p>
+<br>
+<br>
+<p align="center"><strong><i>Seguiré trabajando en mi presentación conforma siga creciendo en el ámbito profesional...</i></strong></p>
