@@ -11,8 +11,9 @@
 [![GitHub Francisco](https://img.shields.io/github/followers/Frank027?label=follow&style=social)](https://github.com/Frank027)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="margin-left: 25%; margin-top: 8%">
-<p align="center">working...</p>   <br><br><br><br><br><br>
+<p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <br>
+working...</p>   <br><br><br><br><br><br>
 
 <p align="center"><strong><i>I will continue to work on my presentation as I continue to grow professionally...</i></strong></p>
 
